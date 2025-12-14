@@ -9,7 +9,6 @@ https://github.com/user-attachments/assets/5ca17303-64f1-44a7-a9bb-1952e6410179
 
 Tweet 🐦
 
-Tweet is a modern social media application inspired by X (Twitter), built with Expo (React Native) and a scalable backend architecture. It focuses on clean UI, real-time interactions, and modern authentication.
 
 Branch Strategy
 This repository follows a clean and professional Git workflow:
